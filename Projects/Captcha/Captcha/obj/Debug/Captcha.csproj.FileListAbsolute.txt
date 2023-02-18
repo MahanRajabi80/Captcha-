@@ -1,0 +1,8 @@
+G:\Csharp Projects\Captcha\Captcha\bin\Debug\Captcha.exe
+G:\Csharp Projects\Captcha\Captcha\bin\Debug\Captcha.pdb
+G:\Csharp Projects\Captcha\Captcha\obj\Debug\Captcha.csprojResolveAssemblyReference.cache
+G:\Csharp Projects\Captcha\Captcha\obj\Debug\Captcha.Form1.resources
+G:\Csharp Projects\Captcha\Captcha\obj\Debug\Captcha.Properties.Resources.resources
+G:\Csharp Projects\Captcha\Captcha\obj\Debug\Captcha.csproj.GenerateResource.Cache
+G:\Csharp Projects\Captcha\Captcha\obj\Debug\Captcha.exe
+G:\Csharp Projects\Captcha\Captcha\obj\Debug\Captcha.pdb
